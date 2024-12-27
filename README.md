@@ -13,7 +13,7 @@
 
 ## 我的项目📚
 - [中间件设计和实践：自研API gateway](https://github.com/kkkkendei/api-gateway)
-- [mallchat: 聊天室项目](https://github.com/AZCodingAccount/iGomokuGame)
+- [mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat)
 
 
 ## 技术栈🛠️
