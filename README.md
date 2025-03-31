@@ -12,8 +12,8 @@
 <h3 align="center">A FullStack developer from China</h3>
 
 ## 我的项目📚
-- [中间件设计和实践：自研API gateway](https://github.com/kkkkendei/api-gateway)
-- [mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat)
+- [自研API gateway](https://github.com/kkkkendei/api-gateway)
+<!-- - [mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat) -->
 - [团购组件](https://github.com/kkkkendei/group-buy-market)
 
 
