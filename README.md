@@ -29,8 +29,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&show_icons=true&hide=contribs,issues&theme=radical&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&theme=radical&locale=cn"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&hide_border=true&theme=radical&locale=cn"/>
 </div>
 
 ## 🛠️ 技术栈
