@@ -40,8 +40,8 @@
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
 
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&locale=cn&line_height=33&show_icons=true&hide=contribs,issues&theme=&rank_icon=default"/>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&locale=cn&line_height=33&show_icons=true&hide=contribs,issues&theme=shadow_green&rank_icon=default"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=shadow_green&langs_count=6&layout=compact&custom_title=常用语言"/>
 
 
 
