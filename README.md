@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# 💖 Hi there 👋, 我是 kkkkendei 💖
-### 一名全栈开发工程师
+# 💖 <samp> Hi there, I'm <a href="https://t.me/roman_2311k" target="_blank">ken_dei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp> 💖
+### 一名全栈开发工程师 
 
 [![WakaTime](https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg)](https://wakatime.co/@018e0793-354b-42d4-8c6d-8dba8d71ab4f)
 [![博客](https://img.shields.io/badge/Blog-博客-blue?style=flat-square&logo=wordpress)](https://www.bugdesigner.com)
