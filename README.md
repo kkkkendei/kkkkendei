@@ -18,9 +18,9 @@
 ## 📚 我的项目
 
 <p align="center">
-    <a href="https://github.com/kkkkendei/api-gateway"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=api-gateway&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-   <a href="https://github.com/kkkkendei/group-buy-market"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=group-buy-market&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/kkkkendei/My-Kanban"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=My-Kanban&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>   
+    <a href="https://github.com/kkkkendei/api-gateway"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=api-gateway&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="api-gateway"></a>
+   <a href="https://github.com/kkkkendei/group-buy-market"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=group-buy-market&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="group-buy-market"></a>
+    <a href="https://github.com/kkkkendei/My-Kanban"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=My-Kanban&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="My-Kanban"></a>   
   </p>
 
 <!-- - [mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat) -->
