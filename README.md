@@ -1,47 +1,89 @@
-
 <!-- 个人资料 -->
 
-<p align="center"> 
-<a href="https://wakatime.co/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>&emsp;
-<a href="https://www.bugdesigner./" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
-<a href="https://docs.bugdesigner." target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
-<a href="https://komarev.c/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm kkkkendei</h1>
-<h3 align="center">A FullStack developer from China</h3>
+# Hi there 👋, 我是 kkkkendei  
+### 一名全栈开发工程师
 
-## 我的项目📚
-- [自研API gateway](https://github.com/kkkkendei/api-gateway)
+[![WakaTime](https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg)](https://wakatime.co/@018e0793-354b-42d4-8c6d-8dba8d71ab4f)
+[![博客](https://img.shields.io/badge/Blog-博客-blue?style=flat-square&logo=wordpress)](https://www.bugdesigner.com)
+[![文档](https://img.shields.io/badge/Docs-文档站-brightgreen?style=flat-square&logo=notion)](https://docs.bugdesigner.com)
+[![访问量](https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true&style=flat-square)](https://komarev.com/ghpvc/?username=AZCodingAccount)
+[![GitHub followers](https://img.shields.io/github/followers/kkkkendei?style=flat-square&logo=github)](https://github.com/kkkkendei?tab=followers)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44F767&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Java+%7C+Vue+%7C+Spring+Boot+%7C+Microservices" alt="Typing SVG" />
+
+</div>
+
+## 🧑‍💻 关于我
+
+- 🔭 目前我专注于全栈开发
+- 🌱 正在学习微服务架构和分布式系统
+- 💬 可以与我交流 Java, Spring, 分布式, 微服务 等技术话题
+- 📫 联系我: [authoryu0607@gmail.com]
+
+## 📚 我的项目
+
+<div align="center"> 
+    <a href="https://github.com/kkkkendei/api-gateway">   
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=api-gateway&theme=bear&hide_border=true" /> 
+    </a>  
+    <a href="https://github.com/kkkkendei/group-buy-market">  
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=group-buy-market&theme=bear&hide_border=true" /> 
+    </a>
+</div>
+
 <!-- - [mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat) -->
-- [团购组件](https://github.com/kkkkendei/group-buy-market)
 
 
-## 技术栈🛠️
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-<!--
-<p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
--->
+## 🛠️ 技术栈
 
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&locale=cn&line_height=33&show_icons=true&hide=contribs,issues&theme=ambient_gradient&rank_icon=default"/>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=ambient_gradient&langs_count=6&layout=compact&custom_title=常用语言"/>
+<div align="center">
 
+### 前端
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
+### 后端
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Dubbo](https://img.shields.io/badge/-Dubbo-F8712F?style=flat-square&logo=apache&logoColor=white)
+![SpringCloudAlibaba](https://img.shields.io/badge/-SpringCloudAlibaba-0095D5?style=flat-square&logo=alibabacloud&logoColor=white)
 
+### 数据库
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 中间件 & 工具
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 GitHub 统计
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&show_icons=true&hide=contribs,issues&theme=bear&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&theme=bear&locale=cn"/>
+</div>
+
+## 🔥 活动统计
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkkkendei&theme=vue&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+</div>
