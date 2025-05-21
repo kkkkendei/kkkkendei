@@ -11,27 +11,17 @@
 [![访问量](https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true&style=flat-square)](https://komarev.com/ghpvc/?username=AZCodingAccount)
 [![GitHub followers](https://img.shields.io/github/followers/kkkkendei?style=flat-square&logo=github)](https://github.com/kkkkendei?tab=followers)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44F767&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Java+%7C+Vue+%7C+Spring+Boot+%7C+Microservices" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Java+%7C+Vue+%7C+Spring+Boot+%7C+Microservices" alt="Typing SVG" />
 
 </div>
-
-## 🧑‍💻 关于我
-
-- 🔭 目前我专注于全栈开发
-- 🌱 正在学习微服务架构和分布式系统
-- 💬 可以与我交流 Java, Spring, 分布式, 微服务 等技术话题
-- 📫 联系我: [authoryu0607@gmail.com]
 
 ## 📚 我的项目
 
-<div align="center"> 
-    <a href="https://github.com/kkkkendei/api-gateway">   
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=api-gateway&theme=bear&hide_border=true" /> 
-    </a>  
-    <a href="https://github.com/kkkkendei/group-buy-market">  
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=group-buy-market&theme=bear&hide_border=true" /> 
-    </a>
-</div>
+<p align="center">
+    <a href="https://github.com/kkkkendei/api-gateway"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=api-gateway&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+   <a href="https://github.com/kkkkendei/group-buy-market"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=group-buy-market&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/kkkkendei/My-Kanban"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=My-Kanban&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>   
+  </p>
 
 <!-- - [mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat) -->
 
@@ -73,7 +63,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&show_icons=true&hide=contribs,issues&theme=bear&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&theme=bear&locale=cn"/>
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&theme=bear&locale=cn"/>
 </div>
 
 ## 🔥 活动统计
