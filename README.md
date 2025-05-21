@@ -62,8 +62,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&show_icons=true&hide=contribs,issues&theme=bear&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&theme=bear&locale=cn"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kkkkendei&show_icons=true&hide=contribs,issues&theme=bear&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&layout=compact&langs_count=8&theme=bear&locale=cn"/>
 </div>
 
 ## 🔥 活动统计
