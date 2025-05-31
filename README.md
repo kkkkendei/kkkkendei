@@ -22,7 +22,7 @@
     <a href="https://github.com/kkkkendei/My-Kanban"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kkkkendei&repo=My-Kanban&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="My-Kanban"></a>   
   </p>
 
-<!-- -[mallchat: 聊天室项目](https://github.com/kkkkendei/mallchat) -->
+<!-- -[ai-rag](https://github.com/kkkkendei/ai-rag) -->
 
 
 ## 📊 GitHub 统计
